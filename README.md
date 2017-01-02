@@ -1,5 +1,5 @@
 #Android Design Patterns and Best Practice
-This is the code repository for [Android Design Patterns and Best Practice](https://www.packtpub.com/web-development/android-design-patterns-and-best-practice?utm_source=github&utm_medium=repository&utm_campaign=9781786467218), published by [Packt](www.packtpub.com). It contains all the supporting project files necessary to work through the book from start to finish.
+This is the code repository for [Android Design Patterns and Best Practice](https://www.packtpub.com/web-development/android-design-patterns-and-best-practice?utm_source=github&utm_medium=repository&utm_campaign=9781786467218), published by [Packt](https://www.packtpub.com). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 Are you an Android developer with some experience under your belt? Are you wondering how the experts create efficient and good-looking apps? Then your wait will end with this book! We will teach you about different Android development patterns that will enable you to write clean code and make your app stand out from the crowd.
 
